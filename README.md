@@ -62,7 +62,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack Júnior e c
 ## 📫 Contato
 
 * 📧 Email: [luizalbertodev@gmail.com](mailto:luizalbertodev@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/luizalbertodev
+* 💼 LinkedIn: [https://linkedin.com/in/luizalbertodev](https://www.linkedin.com/in/luiz-alberto-huller-da-silva-1195321b5/)
 * 💻 GitHub: https://github.com/luizalbertodev
 
 ---
