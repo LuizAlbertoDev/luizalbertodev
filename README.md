@@ -22,8 +22,8 @@
 
 ### 🗄️ Banco de Dados
 
-* MongoDB (em aprendizado)
-* SQL (básico)
+* MongoDB
+* SQL 
 
 ### 🛠️ Ferramentas
 
