@@ -35,8 +35,6 @@
 
 ## 🚀 Projetos em destaque
 
-🔹 Em construção... (em breve projetos full stack completos)
-
 👉 Aqui você verá:
 
 * Sistemas CRUD completos
