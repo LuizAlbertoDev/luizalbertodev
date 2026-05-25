@@ -13,11 +13,11 @@
 * HTML5
 * CSS3
 * JavaScript (ES6+)
-* React (em aprendizado)
+* React
 
 ### ⚙️ Back-end
 
-* Node.js (em aprendizado)
+* Node.js
 * Express
 
 ### 🗄️ Banco de Dados
