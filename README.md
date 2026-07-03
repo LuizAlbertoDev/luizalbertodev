@@ -1,15 +1,15 @@
-# Olá, eu sou o Luiz Alberto 👋
+# Olá, eu sou o Luiz Alberto
 
 Desenvolvedor Full Stack em formação, em transição de carreira e apaixonado por resolver problemas reais através do código.
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🔭 Construindo projetos reais com JavaScript, React, Node.js e SQL
-- 🎯 Buscando minha primeira oportunidade como **Estagiário ou Desenvolvedor Full Stack Júnior**
-- 📍 São José, Santa Catarina — Brasil
+-  Cursando **Análise e Desenvolvimento de Sistemas**
+-  Construindo projetos reais com JavaScript, React, Node.js e SQL
+-  Buscando minha primeira oportunidade como **Estagiário ou Desenvolvedor Full Stack Júnior**
+-  São José, Santa Catarina — Brasil
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,19 +20,19 @@ Desenvolvedor Full Stack em formação, em transição de carreira e apaixonado 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📌 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🚗 [Driver Control](https://luizalbertodev.github.io/driver-control/)
+###  [Driver Control](https://luizalbertodev.github.io/driver-control/)
 > Painel de controle financeiro e de manutenção para motoristas de aplicativo. Gerenciamento de gastos, fluxo de caixa e alertas de manutenção.
 >
 > **Tecnologias:** HTML5 • CSS3 • JavaScript • LocalStorage
 
-### 🛒 [AtacadoPro](https://luizalbertodev.github.io/atacadoPro/)
+###  [AtacadoPro](https://luizalbertodev.github.io/atacadoPro/)
 > Sistema completo de gestão para atacado com mapa SVG interativo, CRUD de produtos, controle de lotes com vencimento, POS com deduçao FIFO de estoque e recibos imprimíveis.
 >
 > **Tecnologias:** HTML5 • CSS3 • JavaScript • SheetJS • LocalStorage
 
-## 📚 Repositórios de Estudo
+##  Repositórios de Estudo
 
 | Repositório | Conteúdo | Desafios |
 |-------------|----------|----------|
@@ -40,7 +40,7 @@ Desenvolvedor Full Stack em formação, em transição de carreira e apaixonado 
 | [Desafios-SQL](https://github.com/LuizAlbertoDev/Desafios-SQL) | SQLite, CRUD, JOIN, GROUP BY | 10 |
 | [Desafios-React](https://github.com/LuizAlbertoDev/Desafios-React) | Componentes, hooks, estado | em andamento |
 
-## 📫 Vamos nos conectar?
+##  Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizalbertodev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizAlbertoDev)
