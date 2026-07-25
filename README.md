@@ -80,6 +80,5 @@ Exercícios práticos envolvendo consultas, modelagem, JOINs e operações CRUD.
 
 ## Contato
 
-LinkedIn
-
-E-mail
+- LinkedIn: https://www.linkedin.com/in/luizalbertodev/
+- E-mail: luizalbertodev@gmail.com
