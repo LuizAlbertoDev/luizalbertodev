@@ -1,84 +1,35 @@
-# Luiz Alberto Huller da Silva
+# Olá! Eu sou Luiz Alberto 👋
 
-Desenvolvedor Full Stack em formação, cursando Análise e Desenvolvimento de Sistemas.
+**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor de software em formação**
 
-Atualmente concentro meus estudos em JavaScript, TypeScript, React, Node.js, Express e PostgreSQL, desenvolvendo projetos práticos para consolidar conhecimentos em aplicações web completas.
+📍 São José, Santa Catarina, Brasil  
+🎯 **Objetivo:** primeira oportunidade como **estagiário em desenvolvimento de software** ou **desenvolvedor júnior**.
 
-## Objetivo
+Estou em transição de carreira para tecnologia. Já desenvolvi projetos e exercícios de aplicações web e, atualmente, estou **revisando os fundamentos de programação**, fortalecendo a lógica e aprendendo a construir soluções que consigo compreender, testar e explicar.
 
-Busco minha primeira oportunidade como Desenvolvedor Full Stack Júnior ou Estagiário, contribuindo com soluções reais enquanto evoluo tecnicamente em ambiente profissional.
+## 🧰 Conhecimentos e trilha de estudos
 
-## Tecnologias
+- **Revisando e praticando:** JavaScript, HTML, CSS, manipulação do DOM, SQL e Git/GitHub.
+- **Próximos passos da formação:** TypeScript, React, Node.js, APIs REST, PostgreSQL, testes automatizados e Docker.
 
-### Frontend
+> As tecnologias listadas como próximos passos são objetivos de estudo, não declarações de experiência profissional.
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
+## 🚀 Projetos
 
-### Backend
+| Projeto | Descrição | Tecnologias da versão documentada |
+| --- | --- | --- |
+| [Driver Control](https://github.com/LuizAlbertoDev/driver-control) | Controle de ganhos, despesas e manutenção para motoristas de aplicativo. [Demonstração](https://luizalbertodev.github.io/driver-control/) | HTML, CSS, JavaScript, LocalStorage |
+| [AtacadoPro](https://github.com/LuizAlbertoDev/atacadoPro) | Simulação de operações de atacado com mapa interativo, produtos, estoque e caixa. | HTML, CSS, JavaScript, LocalStorage, SVG |
+| [CRUD de Produtos](https://github.com/LuizAlbertoDev/CRUD-de-Produtos-em-JavaScript) | Cadastro, edição, busca e exclusão de produtos. [Demonstração](https://luizalbertodev.github.io/CRUD-de-Produtos-em-JavaScript/) | HTML, CSS, JavaScript, LocalStorage |
+| [Desafios JavaScript](https://github.com/LuizAlbertoDev/Desafios-Javascript) | Exercícios progressivos de lógica, DOM e programação assíncrona. | JavaScript |
+| [Desafios SQL](https://github.com/LuizAlbertoDev/Desafios-SQL) | Exercícios de consultas e modelagem de banco de dados. | SQL, SQLite, Node.js |
 
-- Node.js
-- Express
+## 📚 Atualmente
 
-### Banco de dados
+Estou retomando os estudos de programação desde a base e registrando minha evolução com exercícios, revisões de código e projetos práticos. Meu foco é **entender as soluções**, não apenas reproduzir código pronto.
 
-- PostgreSQL
-- SQLite
+## 📫 Contato
 
-### Ferramentas
-
-- Git
-- GitHub
-- Docker (em estudo)
-- Postman
-- VS Code
-
-## Projetos em destaque
-
-### Driver Control
-
-Sistema para gestão financeira e operacional de motoristas de aplicativo.
-
-Tecnologias:
-Node.js • React • PostgreSQL
-
----
-
-### AtacadoPro
-
-Sistema de gestão para atacados com controle de estoque, movimentações e regras de negócio.
-
----
-
-### Mercado App
-
-Aplicação voltada para organização de produtos e operações de loja.
-
----
-
-### Desafios JavaScript
-
-Repositório com mais de 170 exercícios resolvidos cobrindo fundamentos, DOM, programação assíncrona e manipulação de APIs.
-
----
-
-### Desafios SQL
-
-Exercícios práticos envolvendo consultas, modelagem, JOINs e operações CRUD.
-
-## Atualmente estudando
-
-- React
-- Node.js
-- APIs REST
-- PostgreSQL
-- Docker
-- Testes automatizados
-
-## Contato
-
-- LinkedIn: https://www.linkedin.com/in/luizalbertodev/
-- E-mail: luizalbertodev@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/luizalbertodev/)
+- **E-mail:** luizalbertodev@gmail.com
+- [Portfólio web](https://luizalbertodev.github.io/Portifolio-Web/)
